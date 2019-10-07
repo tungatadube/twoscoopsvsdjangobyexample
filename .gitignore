@@ -1,5 +1,5 @@
 .idea/
-mysite/config/secrets.json
-
-
+**/config/
+**/__pycache__/
+*db.sqlite3
 
